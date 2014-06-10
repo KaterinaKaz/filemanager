@@ -20,36 +20,11 @@ seamlessly cooperates with other applications.
 
 To obtain the current release, visit
   http://www.openintents.org
-----------------
-release: 2.0.6
-
-- fix file icons
 
 ----------------
-release: 2.0.5
+release: 1.3
+date: ?
 
-- fix file opening
-- add indicator for copy/cut and paste
-
-----------------
-release: 2.0.3
-
-- Update for Android 4.4
-- Support for x86
-- try to open any file
-
-----------------
-release: 2.0 (Changes made by George Venios as part of GSoC 2012)
-
-- User Interface redesigned to follow Android Design Guidelines. Many usability changes too. 
-- Improved performance. Browsing is now way faster. 
-- Full ActionBar support on devices with Honeycomb and up. 
-- Search has been added. 
-- Copying and moving made easier. 
-- Bookmarks are easier to use. 
-- Multiple file “send” action enabled. 
-- Native multiple selection on platforms that support it (done through the ActionBar). 
-- You can now create home screen shortcuts for any file or folder. 
 - Accept "return" when creating new folder (issue 505, patch by Darriel Kremov)
 - Added last modified to directories (issue 453, patch by George Venios)
 - Fix crash in multi-select confirmation dialog (issue 459, patch by George Venios)
